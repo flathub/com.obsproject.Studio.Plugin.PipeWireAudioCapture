@@ -18,7 +18,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/dimtpap/obs-pipewire-audio-capture.git
-        tag: 1.2.1
-        commit: 78935e15be876ea667df946c91145a6a6c2b4254
+        tag: 1.2.2
+        commit: cc5a661e2f1037341cf92d6c990b6088876810b0
       - type: file
         path: com.obsproject.Studio.Plugin.PipeWireAudioCapture.metainfo.xml
